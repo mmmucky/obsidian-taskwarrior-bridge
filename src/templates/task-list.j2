@@ -1,0 +1,5 @@
+# Open Tasks
+
+{% for task in tasks -%}
+- [ ] (Status: {{ task.status }}) (Project: {{ task.project }}) {{ task.description }}
+{% endfor %}
