@@ -15,3 +15,7 @@ source "${venv_location}/bin/activate"
 pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
 ```
+
+```
+apt install python3-jinja2
+```
