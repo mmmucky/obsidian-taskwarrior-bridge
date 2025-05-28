@@ -11,3 +11,4 @@
 5.0 Headless sync
 
 
+- Invisible data in task list to record uuids that aren't visible in obsidian
